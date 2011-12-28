@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[theist.github.com]]></title>
   <link href="http://theist.github.com/atom.xml" rel="self"/>
   <link href="http://theist.github.com/"/>
-  <updated>2011-12-28T16:22:42+01:00</updated>
+  <updated>2011-12-28T19:23:09+01:00</updated>
   <id>http://theist.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Carlos Peñas]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
