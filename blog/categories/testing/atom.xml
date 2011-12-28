@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[theist.github.com]]></title>
-  <link href="http://theist.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: testing | theist.github.com]]></title>
+  <link href="http://theist.github.com/blog/categories/testing/atom.xml" rel="self"/>
   <link href="http://theist.github.com/"/>
   <updated>2011-12-29T00:30:36+01:00</updated>
   <id>http://theist.github.com/</id>
